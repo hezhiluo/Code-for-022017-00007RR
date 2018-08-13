@@ -1,1 +1,1 @@
-# paper
+This is  the code for our paper entitled "New Global Algorithms for Quardratic Programming with a Few Negative Eigenvalues Based on Alternative Direction Method and Convex Relaxation" (No. 022017-00007RR) that has been accepted for publication in Mathematical programming Computation.
